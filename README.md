@@ -7,3 +7,7 @@ The first Project is a website for a non-existed company called SneakerHUb
   1. build and interactive sneaker website
   2. responsive
  
+![](img/uiDesign.png)
+
+
+
