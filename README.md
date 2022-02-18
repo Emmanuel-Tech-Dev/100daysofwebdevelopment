@@ -18,7 +18,7 @@ PROJECT NUMBER 2
 
 Real Estate Website
 
-![](img/Thumb_RealESTATE.jpg)
+<img src="100daysofwebdevelopment/Real_Estate/img/Thumb_RealESTATE.jpg" >
 
 *VISIT SITE :* https://coldfrolicinc.netlify.app/
 
